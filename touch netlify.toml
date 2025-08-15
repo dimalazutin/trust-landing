@@ -1,0 +1,4 @@
+[build]
+  publish = "dist"              # или папка с готовым сайтом
+  command = "npm run build"
+  functions = "netlify/functions"
